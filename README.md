@@ -10,4 +10,4 @@
 
 ### Seção 2 - Configurando o Git ###
 * Instalando o Git
-* Configuração inicial do Git
+* [Configuração inicial do Git](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/configuracao-inicial-do-git.md)
