@@ -4,4 +4,4 @@
 * modified `passou por modificações` 
 * staged `quando enviado ao stage` depois commit
 
-<img width="584" alt="screen shot" src="">
+<img width="584" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/file-status-lifecycle.png">
