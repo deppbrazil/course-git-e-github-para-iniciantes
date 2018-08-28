@@ -11,3 +11,8 @@
 ### Seção 2 - Configurando o Git ###
 * Instalando o Git
 * [Configuração inicial do Git](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/configuracao-inicial-do-git.md)
+
+### Seção 3 - Essencial do Git ###
+* [Inicializando um repositório](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/inicializando-um-repositorio.md)
+* [Usando o editor do terminal](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/usando-o-editor-do-terminal.md)
+* [O ciclo de vida dos status de seus arquivos](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/o-ciclo-de-vida-dos-status-de-seus-arquivos.md)  
