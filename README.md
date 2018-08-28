@@ -2,7 +2,7 @@
 
 ## Professor: [Willian Justen](https://github.com/willianjusten) ##
 
-<img width="584" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/git-mais-github.png">
+<img width="480" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/git-mais-github.png">
 
 ### Seção 1 - Entendendo o que é o Git e Github ###
 * Introdução
