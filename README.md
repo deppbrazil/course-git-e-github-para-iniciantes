@@ -5,13 +5,13 @@
 <img width="480" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/git-mais-github.png">
 
 ### Seção 1 - Entendendo o que é o Git e Github ###
-* Introdução
-* Controle de Versão
-* História do Git
-* O que é o Github
+* [Introdução](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/introducao.md)
+* [Controle de Versão](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/controle-de-versao.md)
+* [História do Git](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/historia-do-git.md)
+* [O que é o Github](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/o-que-e-o-git.md)
 
 ### Seção 2 - Configurando o Git ###
-* Instalando o Git
+* [Instalando o Git](https://git-scm.com/download)
 * [Configuração inicial do Git](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/configuracao-inicial-do-git.md)
 
 ### Seção 3 - Essencial do Git ###
