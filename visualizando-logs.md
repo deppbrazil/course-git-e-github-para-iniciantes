@@ -4,3 +4,4 @@
 * git shortlog `mostra quantidade de commit de cada autor`
 * git shortlog -sn `ranking de commits em ordem`
 * git log --graph `mostra em forma gráfica o que está acontecendo com os branchs e as versões`
+* git show +hash do commit `o que foi alterado no commit`
