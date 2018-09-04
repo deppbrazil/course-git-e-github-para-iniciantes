@@ -19,3 +19,4 @@
 * [Usando o editor do terminal](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/usando-o-editor-do-terminal.md)
 * [O ciclo de vida dos status de seus arquivos](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/o-ciclo-de-vida-dos-status-de-seus-arquivos.md)
 * [Visualizando logs](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/visualizando-logs.md)
+* [Visualizando o diff](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/visualizando-diff.md)
