@@ -23,4 +23,4 @@
 * [Desfazendo as coisas](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/desfazendo-as-coias.md)
 
 ### Seção 4 - Repositórios remotos ###
-* 
+* [Repositórios Remotos](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-um-repositorio-no-github.md)
