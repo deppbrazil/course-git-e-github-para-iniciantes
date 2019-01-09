@@ -1,5 +1,4 @@
-### Documentação ###
-* [ssh](https://help.github.com/articles/connecting-to-github-with-ssh/)
+### [Documentação](https://help.github.com/articles/connecting-to-github-with-ssh/) ###
 
 * ssh-keygen `para gerar par de chaves`
 * para os demais passos `enter`
