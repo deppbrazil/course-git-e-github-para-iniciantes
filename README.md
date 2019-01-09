@@ -28,3 +28,5 @@
 * [Criando e adicionando uma chave ssh](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-e-adicionando-uma-chave-ssh.md)
 
 * [Ligando repositório local a um remoto](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/ligando-repositorio-local-a-um-remoto.md)
+
+* [Enviando mudanças para um repositório remoto](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/enviando-mudancas-para-um-repositorio-remoto.md)
