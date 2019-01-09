@@ -23,4 +23,6 @@
 * [Desfazendo as coisas](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/desfazendo-as-coias.md)
 
 ### Seção 4 - Repositórios remotos ###
-* [Repositórios Remotos](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-um-repositorio-no-github.md)
+* [Criando um repositório no Github](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-um-repositorio-no-github.md)
+
+* [Criando e adicionando uma chave ssh](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-e-adicionando-uma-chave-ssh.md)
