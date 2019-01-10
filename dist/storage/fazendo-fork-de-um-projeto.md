@@ -1,0 +1,1 @@
+> Diferente do clone o fork faz uma cópia de projetos de terceiros para o seu Github, com isso você você clona para seu local faz as alterações envia para seu Github e abre um pullRequest para o repositório original caso queira contribuir :)

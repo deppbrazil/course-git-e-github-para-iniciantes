@@ -32,3 +32,5 @@
 * [Enviando mudanças para um repositório remoto](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/enviando-mudancas-para-um-repositorio-remoto.md)
 
 * [Clonando repositórios remotos](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/clonando-repositorios-remotos.md)
+
+* [Fazendo fork de um projeto](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/fazendo-fork-de-um-projeto.md)
