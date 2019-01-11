@@ -1,6 +1,6 @@
 # Git e Github para iniciantes #
 
-## De [Willian Justen](https://github.com/willianjusten) ##
+### De [Willian Justen](https://github.com/willianjusten) ###
 
 <img width="300" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/git-mais-github.png">
 
