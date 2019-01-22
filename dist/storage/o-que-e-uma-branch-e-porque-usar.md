@@ -1,0 +1,1 @@
+> O que é uma branch? é um ponteiro móvel que leva um commit, ou seja, para conserto de bugs ou features o ideal é frazer um branch separado para não comprometer a branch master, e quando aprovado fazer o merge com a master
