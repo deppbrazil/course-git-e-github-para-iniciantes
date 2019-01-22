@@ -32,3 +32,4 @@
 * [O que é um branch e por que usar?](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/o-que-e-uma-branch-e-porque-usar.md)
 * [Criando um branch](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-um-branch.md)
 * [Movendo e deletando branches](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/movendo-e-deletando-branches.md)
+* [Entendendo o merge](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-merge.md)
