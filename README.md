@@ -33,3 +33,4 @@
 * [Criando um branch](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-um-branch.md)
 * [Movendo e deletando branches](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/movendo-e-deletando-branches.md)
 * [Entendendo o merge](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-merge.md)
+* [Entendendo o rebase](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-rebase.md)
