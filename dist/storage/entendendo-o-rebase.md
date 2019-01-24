@@ -11,7 +11,7 @@
 
 ### Final do rebase ###
 > E por fim tanto a branch `master` como `experiment` apontará para o mesmo commit `C3`
-![Banner](../assets/entendendo-rebase-img3.png)](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-rebase.md)
+[![Banner](../assets/entendendo-rebase-img3.png)](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-rebase.md)
 
 ### Pro ### 
 * Evita commit extras
