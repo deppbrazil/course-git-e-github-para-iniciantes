@@ -1,4 +1,4 @@
-# Git e Github para iniciantes #
+# Curso Git e Github para iniciantes #
 
 ### Prof. [Willian Justen](https://github.com/willianjusten) ###
 
