@@ -1,6 +1,6 @@
 # Curso Git e Github para iniciantes #
 
-### Prof. [Willian Justen](https://github.com/willianjusten) ###
+### Professor: [Willian Justen](https://github.com/willianjusten) ###
 
 <img width="300" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/git-mais-github.png">
 
