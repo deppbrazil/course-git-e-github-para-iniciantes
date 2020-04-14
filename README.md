@@ -41,3 +41,4 @@
 ### Seção 6 - Extras ###
 * [Criando o .gitignore](./dist/storage/criando-o-gitignore.md)
 * [Git stash é lindo](.dist/storage/../../dist/storage/gitstash-e-lindo.md)
+* [Alias para que te quero](./dist/storage/alias-para-que-te-quero.md)

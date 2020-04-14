@@ -1,0 +1,1 @@
+* git config --global alias.s status `cria um alias s para o comando git status`
