@@ -37,3 +37,6 @@
 * [Entendendo o merge](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-merge.md)
 * [Entendendo o rebase](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/entendendo-o-rebase.md)
 * [Merge e Rebase na prática](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/merge-e-rebase-na-pratica.md)
+
+### Seção 6 - Extras ###
+* [Criando o .gitignore](./dist/storage/criando-o-gitignore.md)
