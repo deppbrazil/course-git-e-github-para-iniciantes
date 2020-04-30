@@ -1,1 +1,0 @@
-* git revert hash do commit `da um rollback no commit`
