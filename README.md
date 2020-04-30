@@ -40,7 +40,7 @@
 
 ## Seção 6 - Extras
 * [Criando o .gitignore](./src/criando-o-gitignore.md)
-* [Git stash é lindo](./src/itstash-e-lindo.md)
+* [Git stash é lindo](./src/gitstash-e-lindo.md)
 * [Alias para que te quero](./src/alias-para-que-te-quero.md)
-* [Versionando com tags](./src/ersionando-com-tags.md)
+* [Versionando com tags](./src/versionando-com-tags.md)
 * [Apagando tags e branches remotos](./src/apagando-tags-e-branches-remotos.md)
