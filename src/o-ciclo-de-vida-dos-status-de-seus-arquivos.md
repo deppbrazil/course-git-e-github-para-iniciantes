@@ -4,7 +4,7 @@
 * modified `passou por modificações` 
 * staged `quando enviado ao stage` depois commit
 
-<img width="584" alt="screen shot" src="https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/assets/file-status-lifecycle.png">
+<img width="584" alt="screen shot" src="../.github/assets/file-status-lifecycle.png">
 
 * git status `mostra estado atual`
 * git add . `add ao stage`

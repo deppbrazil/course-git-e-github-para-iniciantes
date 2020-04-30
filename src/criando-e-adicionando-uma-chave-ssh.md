@@ -4,7 +4,7 @@
 * para os demais passos `enter`
 * pronto abrir o arquivo `id_rsa.pub` na pasta de usuário no pc e adicionar no Github em:
 
-[![Banner](../assets/add-ssh.png)](https://github.com/deppbrazil/course-git-e-github-para-iniciantes/blob/master/dist/storage/criando-e-adicionando-uma-chave-ssh.md)
+[![Banner](../.github/assets/add-ssh.png)](#)
 
 
 ### Para abrir a chave gerada via terminal ###
