@@ -43,3 +43,4 @@
 * [Git stash é lindo](.dist/storage/gitstash-e-lindo.md)
 * [Alias para que te quero](./dist/storage/alias-para-que-te-quero.md)
 * [Versionando com tags](.dist/storage/versionando-com-tags.md)
+* [Apagando tags e branches remotos](./dist/storage/apagando-tags-e-branches-remotos.md)
